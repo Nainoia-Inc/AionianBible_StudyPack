@@ -1,6 +1,6 @@
 # PUBLISHER:
 # File Name: AB-StudyPack.txt
-# File Date: 03/20/2023 19:17:47
+# File Date: 03/25/2023 11:06:06
 # File Purpose: Resources for Bible translation and study of underlying languages
 # File Location: https://resources.AionianBible.org/AB-StudyPack
 # File Source: Aionian Bible resources by Nainoia Inc combined with STEPBible resources by STEPBible.org
