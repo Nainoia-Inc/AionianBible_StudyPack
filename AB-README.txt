@@ -22,7 +22,7 @@
 # Contact https://www.AionianBible.org/Publisher for a StudyPack in your language.
 # Report STEPBible data concerns at https://github.com/STEPBible/STEPBible-Data
 #
-# FILES:
+# FILES: 
 # AB-README.txt									This explanation.
 # Greek-Lexicon.txt								Tyndale Greek extended Strongs lexicon.
 # Greek-Morphhology.txt							Greek word morphhology code definitions.
