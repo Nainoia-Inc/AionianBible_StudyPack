@@ -1,6 +1,6 @@
 # PUBLISHER:
 # File Name: AB-StudyPack.txt
-# File Date: 01/06/2024 16:57:19
+# File Date: 05/16/2024 06:06:16
 # File Purpose: Resources for Bible translation and study of underlying languages
 # File Location: https://resources.AionianBible.org/AB-StudyPack
 # File Source: Aionian Bible resources by Nainoia Inc combined with STEPBible resources by STEPBible.org
@@ -67,16 +67,19 @@
 # 13. This statement of Christian behavior does not exhaust the extent of our practice. The Bible itself, as the inspired and infallible Word of God that speaks with final authority concerning truth, morality, and the proper conduct of mankind, is the sole and final authority of all of our behavior.  We also recognize that every matter great or small is within the realm of God’s loving concern, but prioritize our concerns to the greatest matters of Christian conscience first, Romans 11:36 and 2 Corinthians 10:3-5.  For purposes of The Corporation’s practice the Board of Directors is The Corporation’s final interpretive authority on the Bible’s meaning and application.
 #
 # TRANSLATE:
-# 1. Pray, recruit a committee of faithful Christians, and confirm the above basic Statement of Faith.
-# 2. Agree that translations are not inspired or infallible, though hopefully faithfully made, because only the original autographs of Scripture are God-breathed and inerrant.
+# 1. Pray, recruit a committee of faithful Christians, and confirm the above basic statement of faith and practice.
+# 2. Agree that translations are not inspired or infallible, though Lord willing faithfully made, because only the original autographs of Scripture are God-breathed and inerrant.
 # 3. Translate and do not paraphrase, prioritizing the contexts of phrase, sentence, paragraph, book, author, testament, Bible, and history.
 # 4. Allow for cumbersome and ambiguous translation, if needed, until understanding is made more certain.
-# 5. Maintain the Holy Spirit's gender choice of words because male and female is wonderful gift from God and a reflection of His image, and Biblical roles for men and women are a cause for celebration, not apology.
-# 6. Maintain word and phrase order when possible, allowing some reduced readability, if needed, to maintain the structure of the original.
-# 7. Preserve word repetition and continuation (same theme different word) with concordant translation as much as possible to help the reader appreciate the major and minor themes, structure, poetry, and nuance of the original.
-# 8. Translate Abyssos, Geenna, Hadēs, Limnē Pyr, Sheol, and Tartaroō as distinct locations.
-# 9. Translate aïdios as eternal and aiōn as age or eon.
-# 10. Translate aiōnios as an adjective of aiōn, that is pertaining to the age, as life, lifetime, entire, whole, or consummate, but not as eternal or infinite time.
+# 5. Translate and do not paraphrase colloquial expression, respecting the reader to interpret the Holy Spirit's expression.
+# 6. Maintain the Holy Spirit's gender choice of words even when the meaning is mankind which indicates male headship, because male and female is wonderful gift from God and a reflection of His image, and Biblical roles for men and women are a cause for celebration, not apology.
+# 7. Maintain word and phrase order when possible, allowing some reduced readability, if needed, to maintain the structure of the original.
+# 8. Preserve word and phrase repetition and continuation (same theme different word) with concordant translation as much as possible, especially within the book and author level context, to help the reader appreciate the major and minor themes, structure, poetry, and nuance of the original.
+# 9. Atttempt similar word count and economy as much as possible with the underlying text.
+# 10. Translate Abyssos, Geenna, Hadēs, Limnē Pyr, Sheol, and Tartaroō as distinct locations, preferably using the transliterated word.
+# 11. Translate aïdios as eternal and aiōn as age or eon.
+# 12. Translate aiōnios as an adjective of aiōn, that is pertaining to the age, as life, lifetime, entire, whole, or consummate, but not as eternal or infinite time.
+# 13. Follow the English standard and/or King James versification to match the AionianBible.org project
 #
 # STATEGY:
 # 1. Pray for a modern public domain translation in every language.
@@ -84,18 +87,19 @@
 # 3. Download https://github.com/STEPBible/STEPBible-Data for direct access to the STEPBBible data.
 # 4. Use other resources as available and needed.
 # 5. Install https://notepad-plus-plus.org or a text editor with REGEX for advanced text search and edits.
-# 6. Use the Aionian Bible verse per line format of "3-digit-book-index	3-character-book-abbreviation	3-digit-chapter-number	3-digit-verse-number	verse-text".
-# 7. Create a new translation editing the top line at each verse reference.
-# 8. Use modern spelling and grammar checkers if possible.
-# 9. Use correct style and punctuation, as well as smart quotes.
-# 10. Add lines beginning with "#" for comments as needed.
-# 11. Release your work as CC0 (public domain), CC-BY (attribution), CC-BY-SA (shared with copyright), and avoid CC-ND (no derivative) and CC-NC (no commercial) so Bibles can be further developed and sold.
-# 12. Submit your new translation to AionianBible.org and other outlets for distribution.
+# 6. Use https://github.com/ and other public repositories to track your work and publicize.
+# 7. Use the Aionian Bible verse per line format of "3-digit-book-index	3-character-book-abbreviation	3-digit-chapter-number	3-digit-verse-number	verse-text".
+# 8. Create a new translation editing the top line at each verse reference.
+# 9. Use modern spelling and grammar checkers if possible.
+# 10. Use correct style and punctuation, as well as smart quotes.
+# 11. Add lines beginning with "#" for comments as needed.
+# 12. Release your work as CC0 (public domain), CC-BY (attribution), CC-BY-SA (shared with copyright), and avoid CC-ND (no derivative) and CC-NC (no commercial) so Bibles can be further developed and sold.
+# 13. Submit your new translation to AionianBible.org and other outlets for distribution.
 #
 # WORDS:
 #	STRONGS		Strongs entry number
 #	JOIN		Relation to previous word: 
-#				HEBREW
+#		HEBREW
 #				"W"		=> "Next word",
 #				"W$"	=> "Next word (Hebrew root)",
 #				"W+"	=> "Next word (+following shares Strongs)",
@@ -108,7 +112,7 @@
 #				"D$"	=> "Divided from previous word (Hebrew root)",
 #				"L"		=> "Link previous-next word",
 #				"P"		=> "Punctuation",
-#				GREEK
+#		GREEK 
 #				"W"		=> "Next word",
 #				"C"		=> "Continue the previous word",
 #				"J"		=> "Join with previous word",
@@ -116,7 +120,7 @@
 #				"L"		=> "Link previous-next word",
 #				"P"		=> "Punctuation",
 #	TYPE		Source description
-#				HEBREW
+#		HEBREW
 #				"A"		=> "Aleppo",
 #				"AH"	=> "Aleppo and Ben Chaim",
 #				"AV"	=> "Aleppo and other Hebrew manuscripts",
@@ -148,7 +152,7 @@
 #				"R"		=> "Restored text based on Leningrad parallels",
 #				"V"		=> "Other Hebrew manuscripts",
 #				"X"		=> "Extra words from Septuagint (LXX), in Hebrew based on apparatus in BHS and BHK",
-#				GREEK
+#		GREEK
 #				"NKO"	=> "Identical in all sources",
 #				"NK+O"	=> "Identical in Nestle/Aland and King James sources, noted difference in other sources",
 #				"NK+o"	=> "Identical in Nestle/Aland and King James sources, minor difference in other sources",
@@ -183,8 +187,38 @@
 #	GLOSS		English from lexicon
 #	MORPH		Morphhology grammar
 #	EDITIONS	Found in these editions 
-#				HEBREW: None
-#				GREEK: Byz,Coptic,Cp,ESV,Goodnews,KJV,KJV?,NA26,NA27,NA28,Lt,NIV,OldLatin,OldSyriac,P66,P66*,Punc,SBL,Sy,TR,Treg,Tyn,U1,U2,U3,U4,U5,U6,U32,WH 
+#		HEBREW:	None
+#		GREEK:
+#				"Byz"		=> "Byzantine from Robinson/Pierpoint",
+#				"Coptic"	=> "Coptic",
+#				"ESV"		=> "English Standard Version",
+#				"Goodnews"	=> "Goodnews",
+#				"KJV"		=> "King James Version",
+#				"KJV?"		=> "King James Version possibly",
+#				"NA26"		=> "Nestle/Aland 26th Edition",
+#				"NA27"		=> "Nestle/Aland 27th Edition",
+#				"NA28"		=> "Nestle/Aland 28th Edition, not ECM",
+#				"Latin"		=> "Latin",
+#				"NIV"		=> "New International Version",
+#				"OldLatin"	=> "Old Latin",
+#				"OldSyriac"	=> "Old Syriac version",
+#				"P46"		=> "Papyri #46",
+#				"P66"		=> "Papyri #66",
+#				"P66*"		=> "Papyri #66 corrector",
+#				"Punc"		=> "Accent variant from punctuation",
+#				"SBL"		=> "Society of Biblical Literature Greek NT",
+#				"Syriac"	=> "Syriac",
+#				"TR"		=> "Textus Receptus",
+#				"Treg"		=> "Tregelles",
+#				"Tyn"		=> "Tyndale House GNT",
+#				"U1"		=> "Uncial Codex #1, Sinaiticus",
+#				"U2"		=> "Uncial Codex #2",
+#				"U3"		=> "Uncial Codex #3, Alexandrinus",
+#				"U4"		=> "Uncial Codex #4",
+#				"U5"		=> "Uncial Codex #5, Bezae",
+#				"U6"		=> "Uncial Codex #6",
+#				"U32"		=> "Uncial Codex #32",
+#				"WH"		=> "Westcott/Hort",
 #	VAR			Translation variations
 #	SPELL		Spelling variations
 #	EXTRA		Extra notes
